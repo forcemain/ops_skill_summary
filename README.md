@@ -216,7 +216,7 @@
                     * codis+SSDB+Aerospike
             * redis cluster
         * 管理平台
-            * [cacheCloud](https://github.com/sohutv/cachecloud
+            * [cacheCloud](https://github.com/sohutv/cachecloud)
                 * 简介: 搜狐开发, 云管理平台
     * memcache
         * 扩展工具
