@@ -244,7 +244,7 @@
             * [qceanus](https://github.com/58code/Oceanus)
                 * 简介: 58同城开发
             * [kingshard](https://github.com/flike/kingshard)
-	    * [spider]https://mariadb.com/kb/en/library/spider-storage-engine-overview/)
+	    * [spider](https://mariadb.com/kb/en/library/spider-storage-engine-overview/)
 	    * [oneproxy](http://www.onexsoft.com/proxy.html)
 
         * 逻辑备份
