@@ -246,7 +246,6 @@
             * [kingshard](https://github.com/flike/kingshard)
 	    * [spider](https://mariadb.com/kb/en/library/spider-storage-engine-overview/)
 	    * [oneproxy](http://www.onexsoft.com/proxy.html)
-
         * 逻辑备份
             * mysqldump
             * mysqlhotcopy
