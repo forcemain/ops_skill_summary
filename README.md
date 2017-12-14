@@ -129,7 +129,10 @@
 
 #### 常用日志收集工具
 * elk stack
-    * 组件: elasticsearch, filebeat/logstash, kibana
+    * elasticsearch
+    * filebeat
+    * logstash
+    * kibana
 * scribe
 * graylog
 
@@ -244,8 +247,8 @@
             * [qceanus](https://github.com/58code/Oceanus)
                 * 简介: 58同城开发
             * [kingshard](https://github.com/flike/kingshard)
-	    * [spider](https://mariadb.com/kb/en/library/spider-storage-engine-overview/)
-	    * [oneproxy](http://www.onexsoft.com/proxy.html)
+	        * [spider](https://mariadb.com/kb/en/library/spider-storage-engine-overview/)
+	        * [oneproxy](http://www.onexsoft.com/proxy.html)
         * 逻辑备份
             * mysqldump
             * mysqlhotcopy
