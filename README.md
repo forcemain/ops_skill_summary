@@ -170,10 +170,10 @@
 * cloudify
 * cloudfoundry
 * openshift
-* [Deis](http://www.deis.io/) 
-* Docker
-* CoreOS
-* [Atomic](https://access.redhat.com/articles/rhel-atomic-getting-started)
+* [deis](http://www.deis.io/) 
+* docker
+* coreos
+* [atomic](https://access.redhat.com/articles/rhel-atomic-getting-started)
 * [snappy](http://www.ubuntu.com/cloud/tools/snappy)
 * [rancheros](http://rancher.com)
 
