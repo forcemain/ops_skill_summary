@@ -233,15 +233,20 @@
             * super smack
             * percona's tpcc-mysql tool
             * sysbench
-        * 代理中间件
+        * 中间件集
             * [dbproxy](https://github.com/SOHUDBA/SOHU-DBProxy)
                 * 简介: 搜狐开发
             * [mycat](http://www.mycat.org.cn/)
             * [altas](https://github.com/Qihoo360/Atlas)
+	    	* 注意: 已停止更新
             * [cobar](https://github.com/alibaba/cobar)
+	        * 注意: 已停止更新
             * [qceanus](https://github.com/58code/Oceanus)
                 * 简介: 58同城开发
             * [kingshard](https://github.com/flike/kingshard)
+	    * [spider]https://mariadb.com/kb/en/library/spider-storage-engine-overview/)
+	    * [oneproxy](http://www.onexsoft.com/proxy.html)
+
         * 逻辑备份
             * mysqldump
             * mysqlhotcopy
