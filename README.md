@@ -223,7 +223,8 @@
             * [mcrouter](https://github.com/facebook/mcrouter)
     * mongodb
         * 压力测试
-            * [iibench&sysbench](https://github.com/tmcallaghan)
+            * [iibench](https://github.com/tmcallaghan/iibench-mongodb)
+            * [sysbench](https://github.com/tmcallaghan/sysbench-mongodb)
 * 关系型数据库
     * mysql
         * 基准测试
@@ -255,6 +256,8 @@
                 简介: 数据库迁移工具
             * sqllog
                 简介: 表结构对比工具
+	* 压力测试
+	    * [iibench](https://github.com/tmcallaghan/iibench-mysql)
 ***
 
 #### 各位大佬运维管理平台
